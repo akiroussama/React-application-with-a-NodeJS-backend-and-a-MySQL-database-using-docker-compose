@@ -19,9 +19,9 @@ function App() {
         
         <p>{message || "Loading..."}</p>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to "H<img src={hotreload} width="32" />T" reload .
         </p>
-        <img src={hotreload} width="64"/> HOT RELOAAAAAAAD
+
        
       </header>
     </div>
